@@ -1,0 +1,42 @@
+PS C:\Users\sskzm\OneDrive\Documents\DSA\Lab> & C:\Users\sskzm\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/sskzm/OneDrive/Documents/DSA/Lab/aert-toolkit.py
+
+Factorial Test Cases
+0! = 1
+1! = 1
+5! = 120
+10! = 3628800
+
+Fibonacci Test Cases
+n = 5
+Naive: 5 Calls: 15
+Memoized: 5 Calls: 9
+
+n = 10
+Naive: 55 Calls: 177
+Memoized: 55 Calls: 19
+
+n = 20
+Naive: 6765 Calls: 21891
+Memoized: 6765 Calls: 39
+
+n = 30
+Naive: 832040 Calls: 2692537
+Memoized: 832040 Calls: 59
+
+Tower of Hanoi (N = 3)
+Move disk 1 from A to C
+Move disk 2 from B to C
+Move disk 1 from B to A
+Move disk 3 from A to C
+Move disk 1 from C to B
+Move disk 2 from A to B
+Move disk 1 from A to C
+
+Binary Search Test Cases
+Search 7 -> 3
+Search 1 -> 0
+Search 13 -> 6
+Search 2 -> -1
+Search in empty list -> -1
+
+PS C:\Users\sskzm\OneDrive\Documents\DSA\Lab>
